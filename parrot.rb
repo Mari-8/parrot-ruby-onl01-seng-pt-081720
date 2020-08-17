@@ -6,3 +6,5 @@ def parrot(name="Squawk!")
   return "#{name}"
 end
 
+
+parrot("larry")
